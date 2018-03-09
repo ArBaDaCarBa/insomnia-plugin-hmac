@@ -1,0 +1,10 @@
+{
+  "name": "insomnia-plugin-hmac",
+  "version": "0.0.1",
+  "author": "Bertrand Frottier <bertrand.frottier@gmail.com>",
+  "description": "Insomnia HMAC template tag",
+  "main": "insomnia_plugin_hmac.js",
+  "insomnia": {
+    "name": "hmac"
+  }
+}
